@@ -1,0 +1,2 @@
+# ScrapyIpythonNotebook
+Scrapy Ipython integration
